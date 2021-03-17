@@ -87,7 +87,9 @@ dao.salvar(pessoa);
 ## Exemplo de uso de quotes:
 
 > Estou citando alguém
+> 
 > continuo citando as falas de um cara
+> 
 > terminando a citação.
 
 
